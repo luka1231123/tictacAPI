@@ -23,15 +23,15 @@ this is a tic tac api;
 
 the adress that you can POST or GET to is right now: 
 
-  https://18a3-212-58-120-4.ngrok-free.app/
+  https://72ed-212-58-120-4.ngrok-free.app
   
 so if you want to check history of the api it's like this:
 
-  curl -X GET https://18a3-212-58-120-4.ngrok-free.app/history
+  curl -X GET https://72ed-212-58-120-4.ngrok-free.app/history
   
 and POST-ing start looks like this:
 
-  curl -X POST https://18a3-212-58-120-4.ngrok-free.app/start
+  curl -X POST https://72ed-212-58-120-4.ngrok-free.app/start
 
 
 
