@@ -20,6 +20,8 @@ this is a tic tac api;
 
 
 
+//დაივიწყეთ გამოვრთე საერთოთ 
+
 
 the adress that you can POST or GET to is right now: 
 
